@@ -1,0 +1,30 @@
+{
+
+    "l_histlen": 1,
+    "d_histlen": 1,
+    "cross_histlen": 1,
+    "test_len": 100,
+    "DL_corr": false,
+
+    "data_path": "data/syn_data_iid_constant/",
+    "data_save_path": "data/syn_data_iid_constant/data_clean/",
+    "model_save_path": "model_saved/syn_data_iid_constant/",
+    "config_path": "config/syn_data_iid_constant/",
+    "tuning_save_path": "tuning_result/syn_data_iid_constant/",
+    "test_save_path": "test_result/syn_data_iid_constant/",
+    "extra_sale_cvt": true,
+    "extra_lead_cvt": false,
+
+    "fea_scale": null,
+    "noramlize": "train",
+    "noise_sample_num": 100,
+    "dl_sample_num": 100,
+
+    "device": "cuda:0",
+    "early_stop": true,
+    "patience": 3,
+    "delta": 0.0001,
+
+    "seed": 0
+    
+}

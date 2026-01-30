@@ -1,0 +1,1 @@
+{"hidden_size_ete": [64, 32, 256, 256], "embedding_size": 15, "num_layers": 2, "epochs": 40, "batch_size": 128, "weight_decay": 1e-06, "learning_rate": 0.001, "lr_decay": 0.8, "decay_step": 5}

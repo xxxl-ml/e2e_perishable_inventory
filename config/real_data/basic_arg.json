@@ -1,0 +1,26 @@
+{
+
+    "l_histlen": 7,
+    "d_histlen": 30,
+    "cross_histlen": 7,
+    "test_len": 30,
+    "DL_corr": false,
+
+    "data_path": "data/real_data/",
+    "data_save_path": "data/real_data/data_clean/",
+    "model_save_path": "model_saved/real_data/",
+    "config_path": "config/real_data/",
+    "tuning_save_path": "tuning_result/real_data/",
+    "test_save_path": "test_result/real_data/",
+    "extra_sale_cvt": false,
+    "extra_lead_cvt": false,
+
+    "fea_scale": "cbrt",
+    "normalize": "training",
+    "noise_sample_num": 100,
+    "dl_sample_num": 100,
+
+    "device": "cuda:0",
+    "early_stop": false
+    
+}

@@ -1,0 +1,1 @@
+{"hidden_size_pto": 128, "embedding_size": 1, "num_layers": 2, "batch_size": 128, "weight_decay": 1e-05, "learning_rate": 0.001, "lr_decay": 0.4, "decay_step": 5}
